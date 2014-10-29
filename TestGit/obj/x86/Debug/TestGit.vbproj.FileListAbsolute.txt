@@ -1,0 +1,9 @@
+C:\Users\print\Desktop\TestGit\TestGit\bin\Debug\TestGit.exe
+C:\Users\print\Desktop\TestGit\TestGit\bin\Debug\TestGit.pdb
+C:\Users\print\Desktop\TestGit\TestGit\bin\Debug\TestGit.xml
+C:\Users\print\Desktop\TestGit\TestGit\obj\x86\Debug\TestGit.Form1.resources
+C:\Users\print\Desktop\TestGit\TestGit\obj\x86\Debug\TestGit.Resources.resources
+C:\Users\print\Desktop\TestGit\TestGit\obj\x86\Debug\TestGit.vbproj.GenerateResource.Cache
+C:\Users\print\Desktop\TestGit\TestGit\obj\x86\Debug\TestGit.exe
+C:\Users\print\Desktop\TestGit\TestGit\obj\x86\Debug\TestGit.xml
+C:\Users\print\Desktop\TestGit\TestGit\obj\x86\Debug\TestGit.pdb
